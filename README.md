@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamlesh-ops
 - 👀 I’m interested in ...machine learning and coding
 - 🌱 I’m currently learning ...engineering
-- 💞️ I’m looking to collaborate on ...ML projects
+- 💞️ I’m looking to collaborate on ...ML and robotics projects
 - 📫 How to reach me ...my mail is kamleshsahoo730@gmail.com
 
 <!---
